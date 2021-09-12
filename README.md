@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego Calmon👋
 
 - 📃 Cursando Sistemas de Informação
-- 🌱 Estudando Desenvolvimento Web
+- 🌱 Estudando Desenvolvimento Web Front-End
 - ⚡ Fun fact: Amo animes e games
 
 <div>
