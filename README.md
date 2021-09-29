@@ -1,6 +1,6 @@
 ### Olá Mundo, eu sou o Diego Calmon!!👋
 
-- :computer: Tenho 19 anos e amo tecnologia!
+- :computer: Tenho 20 anos e amo tecnologia!
 - :books:No momento, estou estudando Desenvolvimento Web.
 - ⚡ Fun fact: Amo animes e jogos.
 
