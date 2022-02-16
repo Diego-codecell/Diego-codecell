@@ -1,8 +1,6 @@
-### Olá Mundo, eu sou o Diego Calmon!!👋
+# Diego Calmon
 
-- :computer: Tenho 20 anos e amo tecnologia!
-- :books:No momento, estou estudando Desenvolvimento Web.
-- ⚡ Fun fact: Amo animes e jogos.
+
 
 <div>
   <a href="https://github.com/Diego-codecell">
@@ -17,7 +15,7 @@
   <img align="right" alt="Rafa-matrix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/240px-Digital_rain_animation_medium_letters_shine.gif">
 </div>
   
-## Contato
+# Contato
   
   <div>
   <a href = "mailto:diegocalmon1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
