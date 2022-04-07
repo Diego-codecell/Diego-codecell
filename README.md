@@ -2,7 +2,7 @@
 
 Estudante e amante de tecnologia.
 
-Atualmente estou estudando desenvolvimento Front-End e estou à procura de oportunidades de me desenvolver profissionalmente.
+Atualmente estou estudando desenvolvimento Front-End.
 
 
   
